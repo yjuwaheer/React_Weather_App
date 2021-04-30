@@ -276,3 +276,33 @@
   background: #000000;
   box-shadow: -200px 0 0 200px #FFEC65;
 }
+
+/* Responsive Design */
+@media screen and (max-width: 750px) {
+  .app {
+    flex-direction: column;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .search {
+    width: 100%;
+  }
+
+  .search .close {
+    margin-right: 20px;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .right .weatherCards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+}
