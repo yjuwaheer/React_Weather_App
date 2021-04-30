@@ -4,7 +4,7 @@ import Search from "./components/Search";
 import Right from "./components/Right";
 
 function App() {
-  const api = "https://www.metaweather.com/api";
+  const api = "https://superlongrandom12345xyz.herokuapp.com/https://www.metaweather.com/api";
   const apiAssets = "https://www.metaweather.com";
 
   const days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];

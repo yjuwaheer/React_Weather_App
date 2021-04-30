@@ -1,5 +1,13 @@
 # About App
 
+A weather app created using React JS with a beautiful UI.
+API Used: [Metaweather](https://www.metaweather.com/api/)
+
+## Tools Used
+- HTML
+- CSS
+- React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
