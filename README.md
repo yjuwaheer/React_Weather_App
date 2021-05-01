@@ -2,7 +2,8 @@
 
 A weather app created using React JS with a beautiful UI.
 API Used: [Metaweather](https://www.metaweather.com/api/) \
-Live demo at [weather_app](https://react-weather-app-eta.vercel.app/)
+Live demo at [weather_app](https://react-weather-app-eta.vercel.app/) \
+Challenge by devchallenges.io
 
 ## Tools Used
 - HTML
